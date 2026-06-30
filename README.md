@@ -1,2 +1,2 @@
-# afrinova-website
+index.html
 It's an environmental website 
